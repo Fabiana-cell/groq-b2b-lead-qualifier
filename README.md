@@ -16,7 +16,7 @@ Are you looking to scale this into a fully automated enterprise pipeline? Don't 
 * 🛡️ **Advanced Guardrails:** Strict schema validation to prevent LLM hallucinations from breaking your CRM.
 * 📈 **Asynchronous Batch Processing:** Process thousands of historical leads simultaneously using Python's `asyncio`.
 
-👉 [**Get Instant Access to the PRO Version ($49)**](COLE_AQUI_O_LINK_DO_LEMON_SQUEEZY)
+👉 [**Get Instant Access to the PRO Version ($49)**]([https://algrouplabs.lemonsqueezy.com/checkout/buy/d4ec5c6a-232a-4636-8322-6d242540d3fa])
 
 ---
 
